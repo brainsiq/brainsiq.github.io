@@ -1,0 +1,5 @@
+baseurl = "http://brainsiq.github.io/impey.io"
+languageCode = "en-gb"
+title = "impey.io"
+canonifyurls = true
+publishdir = "public"
