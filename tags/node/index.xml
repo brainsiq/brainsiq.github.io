@@ -19,6 +19,8 @@
 
 &lt;p&gt;There&amp;rsquo;s a few front end issues to sort out but you can check out the progress at &lt;a href=&#34;http://polls.impey.io&#34;&gt;http://polls.impey.io&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;The front end is a pretty simple KnockoutJS UI, and is backed by some node.js APIs to provide polling data and news stories. I&amp;rsquo;m deploying to Heroku through the awesome service that &lt;a href=&#34;http://codeship.com&#34;&gt;Codeship&lt;/a&gt; provide.&lt;/p&gt;
+
 &lt;p&gt;In the upcoming weeks I&amp;rsquo;ll be polishing this off (hopefully before the date of the election!) and finishing this site.&lt;/p&gt;
 </description>
     </item>
