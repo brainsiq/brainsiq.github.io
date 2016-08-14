@@ -1,3 +1,7 @@
+section.about {
+  margin-bottom: 40px;
+}
+
 .gravatar {
   background: url('http://gravatar.com/avatar/47cdcdadcb60c865e70f5a72c9c1dd72?s=120') left center no-repeat;
 }
