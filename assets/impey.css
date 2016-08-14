@@ -5,3 +5,10 @@ section.about {
 .gravatar {
   background: url('http://gravatar.com/avatar/47cdcdadcb60c865e70f5a72c9c1dd72?s=120') left center no-repeat;
 }
+
+footer.pitted {
+  font-size: 11px;
+  font-weight: bold;
+  margin-top: 40px;
+  text-align: right
+}
